@@ -1,12 +1,11 @@
-### Hi there 👋 shyam here!
-
-
+## Hi there 👋 `const name = 'Shyam'` here!
+### About Me
 - 🔭 I’m currently attending Full Stack open 2022 Course
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning about React-Hooks
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:![twitter](https://user-images.githubusercontent.com/4456770/186705377-093f817c-78d8-4f32-9ad9-d46ab06425bb.png)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
