@@ -7,6 +7,7 @@
 ### About Me
 - 🏫 I’m currently attending Full Stack open 2022 Course
 - 📖 I’m currently learning about React-Hooks
+-  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyamenk/)
 ---
 <div id="badges">
   <a href="your-linkedin-URL">
