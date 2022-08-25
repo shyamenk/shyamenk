@@ -10,6 +10,7 @@
 - 🏠 Lives in Audhabi - UAE
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyamenk/)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/shyamenk/maintaina/badge)](https://www.codefactor.io/repository/github/shyamenk/maintaina)
 * * *
 <div id="badges">
   <a href="your-linkedin-URL">
