@@ -1,4 +1,6 @@
-## Hi there 👋 
+## Hi 👋 i'm  Shyam Kumar 
+
+## A passionate  Web developer from UAE
 
 > **The only way to learn** a new programming language is by writing programs in it.
 
