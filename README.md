@@ -10,7 +10,7 @@
 - 🏠 Lives in Audhabi - UAE
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyamenk/)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/shyamenk/maintaina/badge)](https://www.codefactor.io/repository/github/shyamenk/FreshHome)
+
 * * *
 <div id="badges">
   <a href="https://www.linkedin.com/in/shyamenk/">
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=shyamenk&style=flat-square&color=blue" alt="username"/>
+
 
 * * *
 
@@ -39,8 +39,4 @@
 </div>
 
 
----
 
-
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact&theme=vision-friendly-dark)](https://github.com/shyamenk/github-readme-stats)
