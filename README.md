@@ -1,19 +1,19 @@
-## Hi there 👋 `const name = 'Shyam'`CodeWeaver!
+## Hi there 👋 
 
 > **The only way to learn** a new programming language is by writing programs in it.
 
 
 ### About Me
 - 💻 Web-Developer @ [EthernexIT](https://www.ethernexit.com/)
-- 🏫 I’m currently attending [Full Stack open 2022](https://fullstackopen.com/en/) Course
-- 📖 Learning about [React-Hooks](https://reactjs.org/docs/hooks-intro.html)
+- 🏫 I’m currently working on  [FreshHome](https://github.com/shyamenk/FreshHome)
+- 📖 Learning  [Typescript](https://www.typescriptlang.org/)
 - 🏠 Lives in Audhabi - UAE
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyamenk/)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/shyamenk/maintaina/badge)](https://www.codefactor.io/repository/github/shyamenk/maintaina)
+[![CodeFactor](https://www.codefactor.io/repository/github/shyamenk/maintaina/badge)](https://www.codefactor.io/repository/github/shyamenk/FreshHome)
 * * *
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/shyamenk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
@@ -40,7 +40,7 @@
 
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact&theme=vision-friendly-dark)](https://github.com/shyamenk/github-readme-stats)
