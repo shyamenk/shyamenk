@@ -7,7 +7,7 @@
 
 ### About Me
 - 💻 Web-Developer @ [EthernexIT](https://www.ethernexit.com/)
-- 🏫 I’m currently working on  [FreshHome](https://github.com/shyamenk/FreshHome)
+- 🏫 I’m currently working on  [FreshHome](https://github.com/shyamenk/FreshHome-e-Commerce-web)
 - 📖 Learning  [Typescript](https://www.typescriptlang.org/)
 - 🏠 Lives in Audhabi - UAE
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyamenk/)
