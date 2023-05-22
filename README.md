@@ -1,8 +1,9 @@
-## Hi 👋 i'm  Shyam Kumar 
-
-## A passionate  Web developer from UAE
-
+## Hi 👋 i'm  Shyam Kumar A passionate  Web developer from UAE
 > **The only way to learn** a new programming language is by writing programs in it.
+
+ <img src="https://github-readme-stats.vercel.app/api?username=shyamenk&show_icons=true&theme=default"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact"/>
+
 
 
 ### About Me
@@ -11,21 +12,6 @@
 - 📖 Learning  [Typescript](https://www.typescriptlang.org/)
 - 🏠 Lives in Audhabi - UAE
 -  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shyamenk/)
-
-
-* * *
-<div id="badges">
-  <a href="https://www.linkedin.com/in/shyamenk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="https://twitter.com/shyamenk">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
-* * *
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
