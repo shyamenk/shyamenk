@@ -10,8 +10,7 @@
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shyamenk&show_icons=true&theme=default"/>
  
  <img align="right" height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact"/>
-</br>
-
+ 
 ## Languages
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
