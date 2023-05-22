@@ -1,6 +1,5 @@
  ## Hi 👋 i'm  Shyam Kumar A passionate  Web developer from UAE
- 
- <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
  ### About Me
 - 💻 Web-Developer @ [EthernexIT](https://www.ethernexit.com/)
 - 🏫 I’m currently working on  [Adobe Finder](https://github.com/shyamenk/adobe-finder)
