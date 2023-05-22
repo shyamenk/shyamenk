@@ -9,7 +9,7 @@
  </br>
  
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shyamenk&show_icons=true&theme=default"/>
- <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact"/>
+ <img align="left" height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact"/>
  
 ## Languages
 
