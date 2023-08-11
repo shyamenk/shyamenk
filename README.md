@@ -1,4 +1,4 @@
- ## Hi 👋 i'm  Shyam Kumar A passionate  Web developer from INDIA 	:flag_in:
+ ## Hi 👋 i'm  Shyam Kumar A passionate  Web developer from INDIA 🇮🇳
 
  ### About Me
 - 💻 Web-Developer @ [EthernexIT](https://www.ethernexit.com/)
