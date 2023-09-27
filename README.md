@@ -5,6 +5,8 @@
 - 🏫 I’m currently working on  [Adobe Finder](https://github.com/shyamenk/adobe-finder)
 - 📖 Learning  [Python](https://www.python.org/), [Fast API](https://fastapi.tiangolo.com/)
 - 🏠 Lives in Kochin - India
+
+  
 Experienced fullstack web developer proficient in HTML, CSS, JavaScript, Python, Typescript, React, Next.js,
 MongoDB, RESTful APIs, and Git. Seeking to integrate FastAPI and PostgreSQL into projects for
 enhanced backend capabilities. Committed to continuous learning and staying updated with the latest
