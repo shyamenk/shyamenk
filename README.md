@@ -3,7 +3,7 @@
  ### About Me
 - 💻 Web-Developer @ [EthernexIT](https://www.ethernexit.com/)
 - 🏫 I’m currently working on  [Adobe Finder](https://github.com/shyamenk/adobe-finder)
-- 📖 Learning  [Python](https://www.python.org/)
+- 📖 Learning  [Python](https://www.python.org/) [Fast API](https://fastapi.tiangolo.com/)
 - 🏠 Lives in Kochin - India
  I'm a Fullstack Developer specializing in modern technologies such as React, Next.js, TypeScript, and MongoDB. With a passion for building scalable and performant applications.
  
