@@ -2,7 +2,7 @@
 
  ### About Me
 - 💻 Web-Developer @ [EthernexIT](https://www.ethernexit.com/)
-- 🏫 I’m currently working on  [Adobe Finder](https://github.com/shyamenk/adobe-finder)
+- 🏫 I’m currently working on  [Fast API- TODO APP](https://github.com/shyamenk/FastAPI)
 - 📖 Learning  [Python](https://www.python.org/), [Fast API](https://fastapi.tiangolo.com/)
 - 🏠 Lives in Kochin - India
 
