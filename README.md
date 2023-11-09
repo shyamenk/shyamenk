@@ -2,8 +2,8 @@
 
  ### About Me
 - 💻 Web-Developer @ [EthernexIT](https://www.ethernexit.com/)
-- 🏫 I’m currently working on  [Fast API- TODO APP](https://github.com/shyamenk/FastAPI)
-- 📖 Learning  [Python](https://www.python.org/), [Fast API](https://fastapi.tiangolo.com/)
+- 🏫 I’m currently working on  Various Deployment 
+- 📖 Learning  [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [AWS](https://docs.aws.amazon.com/)
 - 🏠 Lives in Kochin - India
 
   
