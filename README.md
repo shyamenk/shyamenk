@@ -63,5 +63,7 @@ web technologies.
 
 <img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/ubuntu%23000000.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img align="left" src="https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white"/>
 
