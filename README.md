@@ -2,7 +2,7 @@
 
  ### About Me
 - 💻 Web-Developer @ [EthernexIT](https://www.ethernexit.com/)
-- 🏫 I’m currently working on  Various Deployment 
+- 🏫 I’m currently working on  [Various Deployment Startegies](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/deployment-strategies.html)
 - 📖 Learning  [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [AWS](https://docs.aws.amazon.com/)
 - 🏠 Lives in Kochin - India
 
