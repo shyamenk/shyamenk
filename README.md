@@ -7,10 +7,7 @@
 - 🏠 Lives in Kochin - India
 
   
-Experienced fullstack web developer proficient in HTML, CSS, JavaScript, Python, Typescript, React, Next.js,
-MongoDB, RESTful APIs, and Git. Seeking to integrate FastAPI and PostgreSQL into projects for
-enhanced backend capabilities. Committed to continuous learning and staying updated with the latest
-web technologies.
+I'm a Web developer with expertise in modern technologies, including React, Next.js, TypeScript, and MongoDB. In addition to these technologies, I also have a strong background in Python FastAPI, PostgreSQL, and Node.js. My passion lies in crafting scalable and high-performance applications, and I bring a wealth of experience in building REST APIs and handling intricate business logic. From front-end design to back-end functionality, I'm well-versed in every facet of the development process and am dedicated to delivering excellence in every project I take on.
  
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shyamenk&show_icons=true&theme=default"/>
  
