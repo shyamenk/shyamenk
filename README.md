@@ -62,4 +62,6 @@ web technologies.
 ## Deployment
 
 <img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=linode&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
