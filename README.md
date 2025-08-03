@@ -56,28 +56,6 @@ Development_Tools:
   - Performance Optimization
 ```
 
----
-
-### 📊 **Professional Experience**
-
-#### 🏥 **Healthcare EHR Platform** | *Current Role*
-- **Impact:** Serving **1,000+ HIPAA-compliant healthcare providers**
-- **Performance:** Database optimization through indexing, partitioning & caching
-- **Automation:** Processing **40,000+ records/day** with AWS Lambda automation
-- **Technology:** Next.js, Node.js, PostgreSQL, AWS Lambda, ECS
-
-#### 🚢 **Logistics Management System** | *Vessel Voyage*
-- **Scale:** Managing **100+ vessels** with automated workflows
-- **Technology:** Next.js, Node.js, PostgreSQL, AWS EC2, ECS, Fargate
-- **Deployment:** GitHub Actions for CI/CD automation
-
-#### 🤖 **AI-Powered Platforms** | *RemoteWant & Priminent*
-- **Features:** Intelligent job matching, personalized learning experiences
-- **AI Integration:** OpenAI, Gemini API for enhanced user interactions
-- **Architecture:** Scalable cloud-native design with real-time capabilities
-
----
-
 ### 🛠️ **Technology Stack**
 
 <div align="center">
