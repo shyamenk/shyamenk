@@ -112,10 +112,10 @@ Development_Tools:
 ### 📝 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Modern Web Applications: A Deep Dive into OWASP Top Ten Vulnerabilities](https://backendalmanac.in/blog/owasp-top-ten)
-- [Mastering API Design: Why 'Design' Beats 'Build' Every Time](https://backendalmanac.in/blog/api-design)
-- [Optimizing Database Design: Advanced Solutions for Scalable and Efficient Systems](https://backendalmanac.in/blog/database-design)
-- [Why Your Database Is Failing (and Here’s How to Fix It)](https://backendalmanac.in/blog/database-normalization)
+- <a href="https://backendalmanac.in/blog/owasp-top-ten" target="_blank">Securing Modern Web Applications: A Deep Dive into OWASP Top Ten Vulnerabilities</a>
+- <a href="https://backendalmanac.in/blog/api-design" target="_blank">Mastering API Design: Why 'Design' Beats 'Build' Every Time</a>
+- <a href="https://backendalmanac.in/blog/database-design" target="_blank">Optimizing Database Design: Advanced Solutions for Scalable and Efficient Systems</a>
+- <a href="https://backendalmanac.in/blog/database-normalization" target="_blank">Why Your Database Is Failing (and Here's How to Fix It)</a>
 <!-- BLOG-POST-LIST:END -->
 
 ---
