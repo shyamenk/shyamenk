@@ -1,65 +1,231 @@
- ## Hi 👋 i'm  Shyam Kumar A passionate  Web developer from 🇮🇳dia
+## Hi 👋 I'm Shyam Kumar - Senior Full-Stack DevOps Engineer
 
- ### About Me
-- 💻 Web-Developer @ [Cyber sapients](https://cybersapient.io/)
-- 🏫 I’m currently working on  [Various Deployment Startegies](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/deployment-strategies.html)
-- 📖 Learning  [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [AWS](https://docs.aws.amazon.com/)
-- 🏠 Lives in Kochin - India
+### 🚀 Transforming Ideas into Scalable Cloud-Native Solutions
 
-  
-I'm a Web developer with expertise in modern technologies, including React, Next.js, TypeScript, and MongoDB. In addition to these technologies, I also have a strong background in Python FastAPI, PostgreSQL, and Node.js. My passion lies in crafting scalable and high-performance applications, and I bring a wealth of experience in building REST APIs and handling intricate business logic. From front-end design to back-end functionality, I'm well-versed in every facet of the development process and am dedicated to delivering excellence in every project I take on.
- 
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shyamenk&show_icons=true&theme=default"/>
- 
- <img align="right" height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact"/>
- 
-## Languages
+I'm a passionate **Senior Full-Stack Developer** and **DevOps Engineer** from 🇮🇳 India, specializing in building enterprise-grade applications and cloud infrastructure. Currently on a mission to architect scalable systems that serve millions of users while optimizing costs and performance.
 
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</br>
+---
 
-## Framework
+### 🎯 About Me
+- 💼 **Senior Full-Stack Engineer** @ [Cyber Sapient](https://cybersapient.io/)
+- 🏗️ **Specialization:** Cloud-Native Architecture, DevOps Automation, Full-Stack Development
+- 🔭 **Currently Building:** [E-commerce Microservices Platform](https://github.com/shyamenk/ecommerce-microservices) serving 100K+ users
+- 🌱 **Learning:** Advanced Kubernetes, AWS Solutions Architecture, System Design at Scale
+- 📍 **Based in:** Kochi, Kerala, India
+- 🎯 **Goal:** Building solutions that deliver **40% cost savings** and **10x performance improvements**
 
-<img align="left" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=2361DAFB"/><br/>
+### 🌐 Connect With Me
+- 🌟 **Portfolio:** [www.shyamenk.me](https://www.shyamenk.me)
+- 📝 **Tech Blog:** [Backend Almanac](https://www.backendalmanac.in)
+- 💼 **LinkedIn:** [linkedin.com/in/shyamenk](https://linkedin.com/in/shyamenk)
+- ✉️ **Email:** shyamenk@gmail.com
 
+---
 
-## Database
+### 💡 **Core Expertise**
 
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img align="left" src="https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"/>
-</br>
+#### 🏗️ **Full-Stack Development**
+```typescript
+const expertise = {
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Shadcn/UI"],
+  backend: ["Node.js", "Python", "FastAPI", "Express.js", "GraphQL", "REST APIs"],
+  databases: ["PostgreSQL", "MongoDB", "Redis", "DynamoDB"],
+  realtime: ["WebSockets", "Server-Sent Events", "Redis Streams"]
+};
+```
 
-## Library
+#### ☁️ **Cloud & DevOps Engineering**
+```yaml
+AWS_Services:
+  Compute: [EC2, ECS, Fargate, Lambda, EKS]
+  Storage: [S3, EBS, EFS]
+  Database: [RDS, DynamoDB, ElastiCache]
+  Networking: [VPC, ALB, CloudFront, Route53]
+  Messaging: [SQS, SNS, SES]
+  Monitoring: [CloudWatch, X-Ray, CloudTrail]
+  Security: [IAM, Secrets Manager, Certificate Manager]
+  CI/CD: [CodePipeline, CodeBuild, CodeDeploy]
 
-<img align="left" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
-</br>
+Container_Orchestration:
+  - Docker & Docker Compose
+  - Kubernetes (EKS)
+  - Helm Charts
+  - Service Mesh (Istio)
 
-## Tools
+Infrastructure_as_Code:
+  - Terraform
+  - AWS CloudFormation
+  - AWS CDK
 
-<img align="left" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img align="left" src="(https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-</br>
+CI/CD_Pipelines:
+  - GitHub Actions
+  - AWS CodePipeline
+  - GitLab CI/CD
+  - Jenkins
+```
 
-## Deployment
+#### 🔧 **DevOps & SRE Practices**
+- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack, DataDog
+- **Configuration Management:** Ansible, AWS Systems Manager
+- **Security:** DevSecOps, Vulnerability Scanning, Compliance (SOC 2, HIPAA)
+- **Performance:** Load Testing, APM, Database Optimization
+- **Disaster Recovery:** Multi-AZ deployments, Automated backups, RTO/RPO planning
 
-<img align="left" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+---
 
+### 📊 **Proven Track Record**
+
+#### 🏥 **Healthcare EHR Platform** | *Current Role*
+- **Impact:** Serving **10,000+ healthcare providers** with 99.9% uptime
+- **Performance:** **70% database optimization**, processing 1,000+ records/day
+- **Automation:** **85% reduction** in manual interventions through AWS Lambda
+- **Compliance:** HIPAA-compliant serverless architecture on AWS
+
+#### 🚢 **Logistics Management System** | *Vessel Voyage*
+- **Scale:** Managing **100+ vessels** with real-time GPS tracking
+- **Technology:** Next.js, Python FastAPI, PostgreSQL, AWS EC2/RDS
+- **Features:** Route optimization, automated billing, multi-format exports
+
+#### 💰 **Fintech Solutions** | *Multiple Projects*
+- **Processing:** **$100K+ transactions** through Stripe integration
+- **Security:** PCI DSS compliant payment processing
+- **Performance:** Supporting **5,000+ concurrent users**
+
+---
+
+### 🛠️ **Technology Stack**
+
+<div align="center">
+
+#### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### **Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
+#### **Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+
+</div>
+
+---
+
+### 📈 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyamenk&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact&langs_count=8&theme=react"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamenk&theme=react" alt="Contribution Streak"/>
+</div>
+
+---
+
+### 🚀 **Featured Projects**
+
+#### 🛍️ [Cloud-Native E-commerce Platform](https://github.com/shyamenk/ecommerce-microservices)
+**Microservices architecture handling 100K+ users with 99.9% uptime**
+- **Tech:** React, Node.js, Kubernetes, AWS EKS, PostgreSQL, Redis
+- **Features:** Auto-scaling, real-time analytics, payment processing
+- **Impact:** 40% cost reduction, 10x scalability improvement
+
+#### 🏥 [Healthcare EHR System](https://github.com/shyamenk/healthcare-ehr)
+**HIPAA-compliant platform serving 10,000+ healthcare providers**
+- **Tech:** Next.js, Python FastAPI, AWS Lambda, PostgreSQL
+- **Features:** Real-time data processing, automated workflows
+- **Impact:** 30% productivity improvement, 99.9% data accuracy
+
+#### ⚙️ [DevOps Automation Suite](https://github.com/shyamenk/devops-automation)
+**Infrastructure automation reducing deployment time by 90%**
+- **Tech:** Terraform, GitHub Actions, AWS, Kubernetes
+- **Features:** Cost monitoring, automated scaling, CI/CD pipelines
+- **Impact:** $50K/month cost savings, 95% faster deployments
+
+#### 📊 [Real-time Analytics Platform](https://github.com/shyamenk/analytics-platform)
+**Processing 1M+ events per day with ML predictions**
+- **Tech:** React, Node.js, Redis Streams, AWS Lambda, TensorFlow
+- **Features:** Live dashboards, anomaly detection, predictive analytics
+- **Impact:** Real-time insights, 95% prediction accuracy
+
+---
+
+### 📝 **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Mastering API Design: From Functional to Exceptional](https://www.backendalmanac.in/blog/mastering-api-design)
+- [Building Scalable Microservices: Lessons from Production](https://www.backendalmanac.in/blog/scalable-microservices)
+- [AWS Cost Optimization: How I Reduced Bills by 40%](https://www.backendalmanac.in/blog/aws-cost-optimization)
+- [Database Performance at Scale: PostgreSQL Optimization Guide](https://www.backendalmanac.in/blog/database-optimization)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🏆 **Current Focus & Goals**
+
+#### 🎯 **2025 Objectives**
+- 🏗️ **Architecture:** Building systems that handle **1M+ concurrent users**
+- ☁️ **Certification:** AWS Solutions Architect Professional
+- 📊 **Impact:** Helping companies achieve **50% cost optimization**
+- 🚀 **Leadership:** Mentoring developers in DevOps and cloud architecture
+- 📈 **Growth:** Scaling from individual contributor to technical leadership
+
+#### 🌱 **Currently Learning**
+- Advanced Kubernetes patterns and service mesh
+- Site Reliability Engineering (SRE) practices
+- Multi-cloud architecture strategies
+- Machine Learning Operations (MLOps)
+
+---
+
+### 💬 **Let's Connect!**
+
+I'm always interested in discussing:
+- 🏗️ **Scalable Architecture:** Microservices, serverless, and cloud-native patterns
+- ⚙️ **DevOps Best Practices:** CI/CD, infrastructure automation, monitoring
+- 💰 **Cost Optimization:** Cloud resource optimization and FinOps strategies
+- 🚀 **Career Growth:** From developer to DevOps engineer to solutions architect
+
+**📧 Reach out:** Whether you want to discuss technology, collaborate on projects, or explore opportunities!
+
+---
+
+### 🎯 **Fun Facts**
+- 🌊 Built a logistics platform that tracks vessels across oceans
+- 💊 Helped digitize healthcare for 10,000+ medical professionals
+- 💸 Automated systems that save companies $50K+ monthly
+- 🚀 Reduced deployment times from hours to minutes
+- 📚 Regular tech blogger sharing DevOps and architecture insights
+
+---
+
+<div align="center">
+
+**"Building the future, one scalable system at a time"** 🚀
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.shyamenk.me)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.backendalmanac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamenk)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shyamenk&color=brightgreen&style=for-the-badge)
+
+</div>
