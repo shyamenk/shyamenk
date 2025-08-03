@@ -110,7 +110,7 @@ Development_Tools:
 - **Features:** Adaptive learning, progress tracking, content delivery
 - **Status:** In Development
 
-#### 🏥 **Healthcare EHR System**
+#### 🏥 **Gemcaps Healthcare EHR System**
 **HIPAA-compliant platform for healthcare providers**
 - **Tech:** Next.js, Node.js, AWS Lambda, PostgreSQL
 - **Features:** Real-time data processing, automated workflows
@@ -127,10 +127,10 @@ Development_Tools:
 ### 📝 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering API Design: From Functional to Exceptional](https://www.backendalmanac.in/blog/mastering-api-design)
-- [Building Scalable Microservices: Lessons from Production](https://www.backendalmanac.in/blog/scalable-microservices)
-- [AWS Cost Optimization: How I Reduced Bills by 40%](https://www.backendalmanac.in/blog/aws-cost-optimization)
-- [Database Performance at Scale: PostgreSQL Optimization Guide](https://www.backendalmanac.in/blog/database-optimization)
+- [Securing Modern Web Applications: A Deep Dive into OWASP Top Ten Vulnerabilities](https://backendalmanac.in/blog/owasp-top-ten)
+- [Mastering API Design: Why 'Design' Beats 'Build' Every Time](https://backendalmanac.in/blog/api-design)
+- [Optimizing Database Design: Advanced Solutions for Scalable and Efficient Systems](https://backendalmanac.in/blog/database-design)
+- [Why Your Database Is Failing (and Here’s How to Fix It)](https://backendalmanac.in/blog/database-normalization)
 <!-- BLOG-POST-LIST:END -->
 
 ---
