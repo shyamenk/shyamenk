@@ -81,21 +81,6 @@ Development_Tools:
 
 </div>
 
----
-
-### 📈 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyamenk&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamenk&layout=compact&langs_count=8&theme=react"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamenk&theme=react" alt="Contribution Streak"/>
-</div>
-
----
-
 ### 🚀 **Featured Projects**
 
 #### 🤖 **RemoteWant - AI Job Assistant Platform**
