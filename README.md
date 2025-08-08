@@ -7,24 +7,24 @@ I'm a passionate **Senior Full-Stack Developer** from 🇮🇳 India, specializi
 ---
 
 ### About Me
-- 💼 **Senior Full-Stack Developer** @ [Cyber Sapient](https://cybersapient.io/)
-- 🏗️ **Focus:** Scalable Architecture, Cloud-Native Applications, AI Integration
-- 🔭 **Currently Building:** AI-powered platforms and cloud-based solutions
-- 🌱 **Learning:** AWS Solutions Architecture, Kubernetes, System Design
-- 📍 **Based in:** Kochi, Kerala, India
-- 🎯 **2025 Goal:** AWS Solutions Architect Associate Certification
+- **Senior Full-Stack Developer** @ [Cyber Sapient](https://cybersapient.io/)
+-  **Focus:** Scalable Architecture, Cloud-Native Applications, AI Integration
+-  **Currently Building:** AI-powered platforms and cloud-based solutions
+-  **Learning:** AWS Solutions Architecture, Kubernetes, System Design
+-  **Based in:** Kochi, Kerala, India
+-  **2025 Goal:** AWS Solutions Architect Associate Certification
 
 ### 🌐 Connect With Me
-- 🌟 **Portfolio:** [www.shyamenk.me](https://www.shyamenk.me)
-- 📝 **Tech Blog:** [Backend Almanac](https://www.backendalmanac.in)
-- 💼 **LinkedIn:** [linkedin.com/in/shyamenk](https://linkedin.com/in/shyamenk)
-- ✉️ **Email:** shyamenk@gmail.com
+-  **Portfolio:** [www.shyamenk.me](https://www.shyamenk.me)
+-  **Tech Blog:** [Backend Almanac](https://www.backendalmanac.in)
+-  **LinkedIn:** [linkedin.com/in/shyamenk](https://linkedin.com/in/shyamenk)
+- ✉ **Email:** shyamenk@gmail.com
 
 ---
 
-### 💡 **Core Expertise**
+###  **Core Expertise**
 
-#### 🏗️ **Full-Stack Development**
+####  **Full-Stack Development**
 ```typescript
 const expertise = {
   frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "JavaScript"],
@@ -35,7 +35,7 @@ const expertise = {
 };
 ```
 
-#### ☁️ **Cloud & Containerization**
+####  **Cloud & Containerization**
 ```yaml
 AWS_Services:
   Compute: [EC2, ECS, Fargate, Lambda]
@@ -56,7 +56,7 @@ Development_Tools:
   - Performance Optimization
 ```
 
-### 🛠️ **Technology Stack**
+###  **Technology Stack**
 
 <div align="left">
 
@@ -81,27 +81,27 @@ Development_Tools:
 
 </div>
 
-### 🚀 **Featured Projects**
+###  **Featured Projects**
 
-#### 🤖 **RemoteWant - AI Job Assistant Platform**
+####  **RemoteWant - AI Job Assistant Platform**
 **AI-powered recruitment platform with intelligent matching**
 - **Tech:** Next.js, TypeScript, Node.js, PostgreSQL, OpenAI API
 - **Features:** Automated interviews, smart job matching, real-time notifications
 - **Status:** In Development
 
-#### 📚 **Priminent - AI Educational Platform**
+####  **Priminent - AI Educational Platform**
 **Personalized learning with adaptive AI algorithms**
 - **Tech:** Next.js, TypeScript, Node.js, PostgreSQL, Gemini API
 - **Features:** Adaptive learning, progress tracking, content delivery
 - **Status:** In Development
 
-#### 🏥 **Gemcaps Healthcare EHR System**
+####  **Gemcaps Healthcare EHR System**
 **HIPAA-compliant platform for healthcare providers**
 - **Tech:** Next.js, Node.js, AWS Lambda, PostgreSQL
 - **Features:** Real-time data processing, automated workflows
 - **Impact:** Serving 1,000+ providers with 40K+ daily records
 
-#### 🚢 **Vessel Voyage - Logistics Platform**
+####  **Vessel Voyage - Logistics Platform**
 **Comprehensive logistics management system**
 - **Tech:** Next.js, Node.js, PostgreSQL, AWS ECS/Fargate
 - **Features:** Vessel management, automated billing, route optimization
@@ -109,7 +109,7 @@ Development_Tools:
 
 ---
 
-### 📝 **Latest Blog Posts**
+###  **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - <a href="https://backendalmanac.in/blog/owasp-top-ten" target="_blank">Securing Modern Web Applications: A Deep Dive into OWASP Top Ten Vulnerabilities</a>
@@ -120,15 +120,15 @@ Development_Tools:
 
 ---
 
-### 🏆 **Current Focus & Goals**
+###  **Current Focus & Goals**
 
-#### 🎯 **2025 Objectives**
-- ☁️ **Certification:** AWS Solutions Architect Associate
-- 🏗️ **Architecture:** Mastering scalable system design patterns
-- 🤖 **AI Integration:** Building intelligent applications with LLM APIs
-- 📈 **Growth:** Advancing to senior architecture roles
+####  **2025 Objectives**
+-  **Certification:** AWS Solutions Architect Associate
+-  **Architecture:** Mastering scalable system design patterns
+-  **AI Integration:** Building intelligent applications with LLM APIs
+-  **Growth:** Advancing to senior architecture roles
 
-#### 🌱 **Currently Learning**
+####  **Currently Learning**
 - AWS Solutions Architecture patterns
 - Kubernetes fundamentals
 - System design at scale
@@ -136,30 +136,30 @@ Development_Tools:
 
 ---
 
-### 💬 **Let's Connect!**
+###  **Let's Connect!**
 
 I'm always interested in discussing:
-- 🏗️ **System Architecture:** Scalable design patterns and cloud solutions
-- 🤖 **AI Integration:** LLM APIs and intelligent application development
-- ☁️ **AWS Technologies:** Cloud architecture and best practices
-- 🚀 **Career Growth:** Full-stack development to solutions architecture
+-  **System Architecture:** Scalable design patterns and cloud solutions
+-  **AI Integration:** LLM APIs and intelligent application development
+-  **AWS Technologies:** Cloud architecture and best practices
+-  **Career Growth:** Full-stack development to solutions architecture
 
-**📧 Reach out:** Whether you want to discuss technology, collaborate on projects, or explore opportunities!
+** Reach out:** Whether you want to discuss technology, collaborate on projects, or explore opportunities!
 
 ---
 
-### 🎯 **Professional Highlights**
-- 🏥 Built HIPAA-compliant healthcare systems processing 40K+ daily records
-- 🤖 Developing AI-powered platforms with OpenAI and Gemini integration
-- ☁️ Experienced with AWS cloud services and containerized deployments
-- 📊 Optimized database performance through strategic indexing and caching
-- 🚀 Implemented CI/CD pipelines with GitHub Actions for automated deployment
+###  **Professional Highlights**
+-  Built HIPAA-compliant healthcare systems processing 40K+ daily records
+-  Developing AI-powered platforms with OpenAI and Gemini integration
+-  Experienced with AWS cloud services and containerized deployments
+-  Optimized database performance through strategic indexing and caching
+-  Implemented CI/CD pipelines with GitHub Actions for automated deployment
 
 ---
 
 <div align="center">
 
-**"Building scalable solutions that make a difference"** 🚀
+**"Building scalable solutions that make a difference"** 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.shyamenk.me)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.backendalmanac.in)
