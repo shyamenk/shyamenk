@@ -1,12 +1,12 @@
 ## Hi 👋 I'm Shyam Kumar - Senior Full-Stack Developer
 
-### 🚀 Building Scalable Web Applications & Cloud Solutions
+### Building Scalable Web Applications & Cloud Solutions
 
 I'm a passionate **Senior Full-Stack Developer** from 🇮🇳 India, specializing in building enterprise-grade applications with modern cloud technologies. Currently focused on creating scalable systems and pursuing AWS Solutions Architect certification.
 
 ---
 
-### 🎯 About Me
+### About Me
 - 💼 **Senior Full-Stack Developer** @ [Cyber Sapient](https://cybersapient.io/)
 - 🏗️ **Focus:** Scalable Architecture, Cloud-Native Applications, AI Integration
 - 🔭 **Currently Building:** AI-powered platforms and cloud-based solutions
