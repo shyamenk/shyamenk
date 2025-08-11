@@ -22,6 +22,16 @@ I'm a passionate **Senior Full-Stack Developer** from 🇮🇳 India, specializi
 
 ---
 
+###  **Professional Highlights**
+- Designed and engineered HIPAA-compliant Electronic Health Records platform serving 1,000+ healthcare providers, processing 40,000+ patient records daily with zero security incidents.
+- Enhanced PostgreSQL database performance through strategic indexing and partitioning, achieving 40% improvement in query response times.
+- Developed automated serverless data pipeline for CSV file processing utilizing AWS Lambda, S3, and CloudFormation with Python SDK.
+- Established CI/CD pipelines using GitHub Actions with AWS Fargate ECS and Docker containerization, reducing build and deployment cycles to 8 minutes.
+- Integrated DrChrono Webhook and AWS SES for automated data sync and email notifications, reducing manual entry by 75% across 200+ daily notifications.
+- Built real-time analytics dashboard using Next.js and Shadcn/UI, delivering 30% faster metric access.
+
+---
+
 ###  **Core Expertise**
 
 ####  **Full-Stack Development**
@@ -145,15 +155,6 @@ I'm always interested in discussing:
 -  **Career Growth:** Full-stack development to solutions architecture
 
 ** Reach out:** Whether you want to discuss technology, collaborate on projects, or explore opportunities!
-
----
-
-###  **Professional Highlights**
--  Built HIPAA-compliant healthcare systems processing 40K+ daily records
--  Developing AI-powered platforms with OpenAI and Gemini integration
--  Experienced with AWS cloud services and containerized deployments
--  Optimized database performance through strategic indexing and caching
--  Implemented CI/CD pipelines with GitHub Actions for automated deployment
 
 ---
 
